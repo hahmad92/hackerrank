@@ -1,4 +1,4 @@
-package come.hackerrank.bit.manipulation;
+package com.hackerrank.bit.manipulation;
 
 import java.io.File;
 import java.io.FileNotFoundException;
